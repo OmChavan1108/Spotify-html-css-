@@ -1,2 +1,2 @@
 # Spotify-html-css-
-Made simpe html and  avdanced css techniques it is a clone of spotify
+Made clone of spotify using html and  avdanced css techniques.
